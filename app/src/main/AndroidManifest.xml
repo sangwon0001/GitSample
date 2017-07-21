@@ -17,6 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".PeachActivity"></activity>
+        <activity android:name=".AppleActivity"></activity>
     </application>
 
 </manifest>
